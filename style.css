@@ -1,0 +1,15 @@
+*
+{
+  font-family: 'Poppins', sans-serif;
+}
+
+#nav-bar
+{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-item:hover
+{
+  background-color: #2B3133 ;
+}
