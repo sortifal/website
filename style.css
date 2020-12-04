@@ -46,13 +46,13 @@
 }
 
 .content {
-  margin-top: 25vh;
+  margin-top: 28vh;
   position: center;
 }
 .content a{
   text-decoration: none;
   display: block;
-  margin: 20vh auto;
+  margin: 10vh auto;
 
   width: 250px;
   height: 54px;
