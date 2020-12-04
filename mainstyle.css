@@ -4,8 +4,6 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
-  
-
 }
 
 #nav-bar
@@ -25,4 +23,12 @@
 .nav-item:hover
 {
   background-color: #B2BDC1;
+}
+
+.text a{
+  width: 50vh;
+}
+
+.text a:hover{
+
 }
