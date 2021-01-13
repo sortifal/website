@@ -1,11 +1,17 @@
-*
-{
+*{
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
   text-decoration: none;
-}
 
+}
+#backgroundd
+{
+  background-color: black;
+  color: black;
+  position: relative;
+  z-index: -10;
+}
 #nav-bar
 {
   position: sticky;
@@ -15,14 +21,14 @@
 
 .nav-item
 {
-  border-radius: 3px;
+  border-radius: 4px;
   height: inherit;
   width: inherit;
 }
 
 .nav-item:hover
 {
-  background-color: #B2BDC1;
+  background-color: #D5D5D5;
 }
 
 .text a{
@@ -31,4 +37,7 @@
 
 .text a:hover{
 
+}
+#texte1{
+  color: white;
 }
